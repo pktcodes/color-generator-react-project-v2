@@ -17,7 +17,9 @@ HTML, CSS, JavaScript, ECMAScript, React - Hooks ~ useState
 
 #### Packages
 [Nano ID](https://www.npmjs.com/package/nanoid)
+
 [React Toastify](https://www.npmjs.com/package/react-toastify)
+
 [Values JS](https://github.com/noeldelgado/values.js)
 
 #### Deployment / Hosting
